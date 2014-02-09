@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/nicam/webnesday.png?branch=master)](https://travis-ci.org/nicam/webnesday)
 Webnesday.ch
 =========
 
